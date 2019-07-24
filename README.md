@@ -120,3 +120,4 @@ Hey dude! Help me out for a couple of :beers:!
 
 [![Beerpay](https://beerpay.io/vdenotaris/spring-boot-security-saml-sample/badge.svg?style=beer-square)](https://beerpay.io/vdenotaris/spring-boot-security-saml-sample)  [![Beerpay](https://beerpay.io/vdenotaris/spring-boot-security-saml-sample/make-wish.svg?style=flat-square)](https://beerpay.io/vdenotaris/spring-boot-security-saml-sample?focus=wish)
 
+Follow LINK:- https://medium.com/@viraj.rajaguru/how-to-use-spring-saml-extension-7ffe0dd38465
